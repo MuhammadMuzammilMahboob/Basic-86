@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.headcontaner{
+    width: 65%;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+
+header{
+    width: 100%;
+    background-color: dimgray;
+    height: 78px;
+}
+
+.basic86{
+  /* background-color: aquamarine; */
+    float: left;
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+}
+.textLink{
+    float: right;
+    /* display: inline-block; */
+    margin-top: 3%;
+    background-color: black;
+}
+.contanerBlock{
+    width: 65%;
+    margin: 0 auto;
+}
+header .headcontaner .textLink ul{
+margin-top: 5px;
+margin-bottom: 10px;
+}
+header .headcontaner .textLink ul li{
+    display: inline;
+    margin-right: 15px;
+    list-style-type: none;
+}
+
+ul li a{
+    /* padding-top: 6%; */
+    color: aliceblue;
+    font-size: 18px;
+ text-decoration: none;
+}
+.contaner2{
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-bottom: 2.5%;
+    overflow: auto;
+}
+.contanerBlock{
+    float: left;
+    width: 39%;
+    background-color: rgb(136, 128, 128);
+}
+.contaner2 .contanerBlock a{
+text-decoration: none;
+float: right;
+color: orange;
+}
+.box1{
+    float: right;
+    width: 60%;
+    background-color: black;
+    color: white;
+    line-height: 248px;
+    text-align: center;
+    overflow: auto;
+}
+.contaner3{
+    width: 65%;
+    margin: 0 auto;
+    /* margin-top: 1%; */
+    overflow: auto;
+}
+.card{
+    width: 31%;
+    float: left;
+    margin-right: 2%;
+}
+.box80{
+    color: aliceblue;
+    float: left;
+    background-color: black;
+    min-height: 80px;
+    min-width: 80px;
+    text-align: center;  
+}
+.card  a{
+    text-decoration: none;
+    color: orange;
+    float: right;
+}
+.contaner4{
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 2.7%;
+    overflow: auto;
+}
+.card1{
+    width: 23%;
+    float: left;
+    margin-right: 1%;
+}
+.box100{
+    color: aliceblue;
+    background-color: black;
+    min-height: 80px;
+    min-width: 80px;
+    text-align: center;  
+}
+.card1  a{
+    text-decoration: none;
+    color: orange;
+    float: right;
+}
+.footers{
+    /* background-color: black; */
+     /* color: aliceblue; */
+     height: 29px;
+     width: 65%;
+     margin: 0 auto;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
